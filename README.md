@@ -41,3 +41,7 @@ IMG_SIZE=75
 new_array = cv2.resize(X[0], (IMG_SIZE, IMG_SIZE))
 plt.imshow(new_array, cmap='gray')
 plt.show()
+
+
+Image referente to StarRGB process:
+![](https://github.com/wyctorfogos/wyctorfogos/blob/main/PlumpHollowFrog-small.gif)
