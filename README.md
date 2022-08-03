@@ -44,4 +44,4 @@ plt.show()
 
 
 Image referente to StarRGB process:
-![](https://github.com/wyctorfogos/wyctorfogos/blob/main/PlumpHollowFrog-small.gif)
+![](https://github.com/wyctorfogos/Classifier-moviments---StarRGB/blob/main/00000.png)
